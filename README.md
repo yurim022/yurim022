@@ -21,6 +21,8 @@ EMAIL : yurim2220@gmail.com
 <img src="https://img.shields.io/badge/Tensorflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp </p>
+
 <div align=center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim022)](https://github.com/yurim022/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurim022)](https://github.com/yurim022/github-readme-stats) 
+[![YURIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim022)](https://github.com/yurim022/github-readme-stats)
 </div>
