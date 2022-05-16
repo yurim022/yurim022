@@ -14,7 +14,7 @@ EMAIL : yurim2220@gmail.com
 <h3 align="center"><b>:hammer_and_wrench: Technical Stack :hammer_and_wrench:</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-FDEE21?style=flat-square&logo=Java&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-FDEE21?style=flat-square&logo=Java&logoColor=#007396"/></a> &nbsp
 <img src="https://img.shields.io/badge/SpringBoot-FF5C83?style=flat-square&logo=Apache Spark&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JPA-FDEE21?style=flat-square&logo=ApacheHive&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
