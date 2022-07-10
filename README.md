@@ -32,4 +32,4 @@ EMAIL : yurim2220@gmail.com
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=90&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=wave&reversal=true&color=auto&height=300&section=header&fontSize=90" />
