@@ -31,5 +31,3 @@ EMAIL : yurim2220@gmail.com
 [![YURIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim022)](https://github.com/yurim022/github-readme-stats)
 </div>
 
-
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
