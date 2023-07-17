@@ -25,9 +25,3 @@ EMAIL : yurim2220@gmail.com
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp </p>
 
-
-<div align=center>
-  
-//[![YURIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim022)](https://github.com/yurim022/github-readme-stats)
-</div>
-
