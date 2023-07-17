@@ -28,6 +28,6 @@ EMAIL : yurim2220@gmail.com
 
 <div align=center>
   
-[![YURIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim022)](https://github.com/yurim022/github-readme-stats)
+//[![YURIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurim022)](https://github.com/yurim022/github-readme-stats)
 </div>
 
