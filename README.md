@@ -28,7 +28,7 @@ EMAIL : yurim2220@gmail.com
 
 
 - Java, Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis
-- JPA, Querydsl, Hibernate
+- JPA, Querydsl, Hibernate, Mybatis
 - Junit5, Mockito
 - Gradle, Maven
 - Intellij
